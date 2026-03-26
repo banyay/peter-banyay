@@ -1,2 +1,2 @@
 # peter-banyay
-Bányay Péter emlékoldala
+Bányay Péter emlékoldala.
